@@ -81,20 +81,29 @@ h2 {
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 23px;
   font-family: Lato;
   font-weight: 500;
 }
 
 p {
+ font-size: 19px;
  font-family: Lato;
  line-height: 1.5em;
  margin-bottom: 0;
+ 
+}
+
+main ol li {
+  font-size: 19px;
+  font-family: Lato;
 }
 
 main a {
+  font-size: 19px;
 	font-weight: 700;
-	text-decoration: none;	
+  text-decoration: none;	
+  font-family: Lato;
 }
 
 main  a:link { color:black; }
@@ -103,16 +112,11 @@ main  a:hover { color: #bdbdbd; }
 a:active { color:black; }
 
 ul li {
+  font-size: 19px;
   font-family: Lato;
 }
 
-
-footer p {
-  color: #fff;
-  text-align: center;
-  padding: 20px;
-}
-
+/* ---  Structure --- */
 
 main img {
   width: 100%;
@@ -184,10 +188,6 @@ form label {
 form button {
   font-family: Lato;
 }
-
-
-
-
 
 
 
